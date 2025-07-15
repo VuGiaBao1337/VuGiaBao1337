@@ -19,7 +19,7 @@ I'm Introvert + NEET and my hobbies are playing games, watching anime, reading m
 
 ## **💻 Experience**
 <a href="https://github.com/VuGiaBao1337"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
-I'm currently studying at [Tho Xuan High School](https://thptthoxuan-danphuong.edu.vn/). I don't have anything special, but I hope to be able to change that in the future.
+I'm currently studying at [??? High School]. I don't have anything special, but I hope to be able to change that in the future.
 
 
 ## **📊 Github Stats**
